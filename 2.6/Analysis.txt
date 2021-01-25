@@ -1,0 +1,5 @@
+We are looping through a list backwards and forwards to determine if it is a palindrome,
+so it does not matter the size of the list, every instruction has to be executed whenever we run the program. 
+My algorithm has a time complexity of O(m+n) where m is the size of the first half of the list and n equals the second half. 
+Yet, when we add m+n we will get a constant, and as we know saying that an algorithm has a time complexity of O(11)
+is the same as saying it has a time complexity of O(1). In conclusion, my algorithm has a time complexity of O(1).
