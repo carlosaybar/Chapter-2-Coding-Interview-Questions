@@ -1,0 +1,2 @@
+This algorithm has a linear time complexity of O(n), where n is the length of the list,
+so the longer the list is, the longer it will take to execute all the instructions and generate a solution.
