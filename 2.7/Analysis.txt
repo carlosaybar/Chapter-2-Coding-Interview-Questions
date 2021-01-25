@@ -1,0 +1,4 @@
+My algorithm has a time complexity of O(m+n) where m is the size of the first list and n is the size of the second list.
+Given we are looking for the intersection or intersections  in the two lists, every instruction has to be executed no matter the size of both lists.
+However, when we add m+n we will get a constant, and since constants do not really matter  when accounting for the time complexity of an algorithm, 
+it can be said that the time complexity ends up being O(1).
